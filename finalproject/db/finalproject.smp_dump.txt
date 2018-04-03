@@ -1,0 +1,37 @@
+
+State Machine - |finalproject|datapath2:d0|counter:c0|control1:c0|current_state
+Name current_state.WAIT2 current_state.DRAW2 current_state.DRAW1 current_state.DRAW0 current_state.ERASE2 current_state.ERASE1 current_state.ERASE0 current_state.INCREASE current_state.WAIT current_state.START 
+current_state.START 0 0 0 0 0 0 0 0 0 0 
+current_state.WAIT 0 0 0 0 0 0 0 0 1 1 
+current_state.INCREASE 0 0 0 0 0 0 0 1 0 1 
+current_state.ERASE0 0 0 0 0 0 0 1 0 0 1 
+current_state.ERASE1 0 0 0 0 0 1 0 0 0 1 
+current_state.ERASE2 0 0 0 0 1 0 0 0 0 1 
+current_state.DRAW0 0 0 0 1 0 0 0 0 0 1 
+current_state.DRAW1 0 0 1 0 0 0 0 0 0 1 
+current_state.DRAW2 0 1 0 0 0 0 0 0 0 1 
+current_state.WAIT2 1 0 0 0 0 0 0 0 0 1 
+
+State Machine - |finalproject|datapath2:d0|laserenemiesv2:e0|control:c0|current_state
+Name current_state.DRAW5 current_state.ERASE4 current_state.DRAW4 current_state.ERASE3 current_state.DRAW3 current_state.ERASE2 current_state.EDEATH current_state.DRAW2 current_state.POSUP current_state.DRAW1 current_state.ERASE current_state.WAIT current_state.START current_state.ERASE5 
+current_state.START 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+current_state.WAIT 0 0 0 0 0 0 0 0 0 0 0 1 1 0 
+current_state.ERASE 0 0 0 0 0 0 0 0 0 0 1 0 1 0 
+current_state.DRAW1 0 0 0 0 0 0 0 0 0 1 0 0 1 0 
+current_state.POSUP 0 0 0 0 0 0 0 0 1 0 0 0 1 0 
+current_state.DRAW2 0 0 0 0 0 0 0 1 0 0 0 0 1 0 
+current_state.EDEATH 0 0 0 0 0 0 1 0 0 0 0 0 1 0 
+current_state.ERASE2 0 0 0 0 0 1 0 0 0 0 0 0 1 0 
+current_state.DRAW3 0 0 0 0 1 0 0 0 0 0 0 0 1 0 
+current_state.ERASE3 0 0 0 1 0 0 0 0 0 0 0 0 1 0 
+current_state.DRAW4 0 0 1 0 0 0 0 0 0 0 0 0 1 0 
+current_state.ERASE4 0 1 0 0 0 0 0 0 0 0 0 0 1 0 
+current_state.DRAW5 1 0 0 0 0 0 0 0 0 0 0 0 1 0 
+current_state.ERASE5 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+
+State Machine - |finalproject|FSM:f0|current_state
+Name current_state.DRAW_COUNTER current_state.START_COUNTER current_state.DRAW_ENEMY current_state.START_ENEMY 
+current_state.START_ENEMY 0 0 0 0 
+current_state.DRAW_ENEMY 0 0 1 1 
+current_state.START_COUNTER 0 1 0 1 
+current_state.DRAW_COUNTER 1 0 0 1 

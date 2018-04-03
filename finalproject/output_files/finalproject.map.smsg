@@ -1,0 +1,22 @@
+Info (10281): Verilog HDL Declaration information at finalproject.v(82): object "start_enemy" differs only in case from object "START_ENEMY" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 82
+Info (10281): Verilog HDL Declaration information at finalproject.v(83): object "draw_enemy" differs only in case from object "DRAW_ENEMY" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 83
+Info (10281): Verilog HDL Declaration information at finalproject.v(81): object "start_counter" differs only in case from object "START_COUNTER" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 81
+Info (10281): Verilog HDL Declaration information at finalproject.v(85): object "draw_counter" differs only in case from object "DRAW_COUNTER" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 85
+Info (10281): Verilog HDL Declaration information at finalproject.v(482): object "increase" differs only in case from object "INCREASE" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 482
+Info (10281): Verilog HDL Declaration information at finalproject.v(489): object "erase0" differs only in case from object "ERASE0" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 489
+Info (10281): Verilog HDL Declaration information at finalproject.v(490): object "erase1" differs only in case from object "ERASE1" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 490
+Info (10281): Verilog HDL Declaration information at finalproject.v(491): object "erase2" differs only in case from object "ERASE2" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 491
+Info (10281): Verilog HDL Declaration information at finalproject.v(486): object "draw0" differs only in case from object "DRAW0" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 486
+Info (10281): Verilog HDL Declaration information at finalproject.v(487): object "draw1" differs only in case from object "DRAW1" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 487
+Info (10281): Verilog HDL Declaration information at finalproject.v(488): object "draw2" differs only in case from object "DRAW2" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 488
+Warning (10268): Verilog HDL information at finalproject.v(842): always construct contains both blocking and non-blocking assignments File: E:/csc258/finalproject/finalproject.v Line: 842
+Info (10281): Verilog HDL Declaration information at finalproject.v(804): object "draw1" differs only in case from object "DRAW1" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 804
+Info (10281): Verilog HDL Declaration information at finalproject.v(805): object "draw2" differs only in case from object "DRAW2" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 805
+Info (10281): Verilog HDL Declaration information at finalproject.v(814): object "edeath" differs only in case from object "EDEATH" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 814
+Info (10281): Verilog HDL Declaration information at finalproject.v(810): object "erase2" differs only in case from object "ERASE2" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 810
+Info (10281): Verilog HDL Declaration information at finalproject.v(806): object "draw3" differs only in case from object "DRAW3" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 806
+Info (10281): Verilog HDL Declaration information at finalproject.v(811): object "erase3" differs only in case from object "ERASE3" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 811
+Info (10281): Verilog HDL Declaration information at finalproject.v(807): object "draw4" differs only in case from object "DRAW4" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 807
+Info (10281): Verilog HDL Declaration information at finalproject.v(812): object "erase4" differs only in case from object "ERASE4" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 812
+Info (10281): Verilog HDL Declaration information at finalproject.v(808): object "draw5" differs only in case from object "DRAW5" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 808
+Info (10281): Verilog HDL Declaration information at finalproject.v(813): object "erase5" differs only in case from object "ERASE5" in the same scope File: E:/csc258/finalproject/finalproject.v Line: 813
